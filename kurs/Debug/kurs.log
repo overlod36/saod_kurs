@@ -1,0 +1,7 @@
+﻿  kurs.cpp
+  disk_device.cpp
+  catalog.cpp
+  file.cpp
+  Создание кода...
+E:\Уник\Курсовые\4\SAOD\kurs\kurs\catalog.cpp(181): warning C4715: catalog::searching_file: значение возвращается не при всех путях выполнения
+  kurs.vcxproj -> E:\Уник\Курсовые\4\SAOD\kurs\Debug\kurs.exe
